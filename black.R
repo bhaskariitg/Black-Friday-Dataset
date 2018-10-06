@@ -72,7 +72,7 @@ for(i in 1:nrow(test)){if(is.na(test$Product_Category_2)=='TRUE'){test$Product_C
 str(train)
 str(test)
 
-#Building the model using Random Forest
+
 
 
 
